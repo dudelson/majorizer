@@ -1,4 +1,4 @@
-** This project currently is not under active development **
+**This project currently is not under active development**
 
 # Majorizer: Improved Desktop Mnemonic Assistance Tool
 
@@ -15,6 +15,7 @@ The two biggest limitations I've found in existing solutions are:
    874157, I could use the phrase "favorite lock" in my version of the major system,
    but in order to find this phrase using existing software, I have to search for
    the number 884157. Needless to say, this is quite annoying.
+
 2) Failure to use people, places, and other references as part of the mnemonic
    database. Existing solutions appear to use only the english dictionary, which
    in my opinion detracts a lot from the potential usefulness of these solutions.
